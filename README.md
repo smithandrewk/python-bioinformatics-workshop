@@ -43,7 +43,7 @@ brew install python
 1. Install [Python from python.org](https://www.python.org/downloads/). Use the **Download Python** button that appears first on the page to download the latest version.
     1. **Note**: If you don't have admin access, an additional option for installing Python on Windows is to use the Microsoft Store. The Microsoft Store provides installs of [supported Python versions](https://apps.microsoft.com/store/search?publisher=Python%20Software%20Foundation).
 
-# 2. Using Google Collab
+## 1.5 Using Google Collab
 
 Visit (https://colab.research.google.com/) to get started.
 
